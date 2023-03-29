@@ -8,10 +8,10 @@ Usage of `trimaping_manual.py`
 4. Press `ESC` to exit or `s` to save the results.
 
 image_org
-![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/master/lemur.png)
+![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/main/lemur.png)
 trimap selected manually
-![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/master/trimap.png)
+![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/main/trimap.png)
 alpha
-![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/master/alpha.png)
+![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/main/alpha.png)
 image_matting
-![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/master/image_matting.png)
+![Image text](https://github.com/HaohuaLv/my_CFmatting/blob/main/image_matting.png)
